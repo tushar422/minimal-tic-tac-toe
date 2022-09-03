@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Minimal TicTacToe</string>
+    <string name="resetButtonText">Reset</string>
+    <string name="intromsg">Its X\'s Turn. Good Luck!</string>
+</resources>
